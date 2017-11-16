@@ -3,8 +3,9 @@
 2. laser_scan_matcher
 
 # Installation
-1. n/a
-2. $ sudo apt-get install ros-kinetic-laser-scan-matcher
+```
+$ sudo apt-get install ros-kinetic-laser-scan-matcher
+```
 
 For laser scan matcher to work, it needs a pre-recorded bag file, which can be done by 
 ```
