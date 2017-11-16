@@ -12,6 +12,7 @@ $ roscore
 $ cd to the directory u want your file to be
 $ rosbag record -a
 ```
+RECORD the bag file when moving in the desired path, i think laser_scan_matcher compares the shit
 
 demo launch file
 ```
